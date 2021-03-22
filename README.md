@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello. My name is Scott H Lee and I am a recent graduate of the Software Engineering Bootcamp with Flatiron School.
+Our primary languages learned throughout the course were:
+- Ruby
+- Ruby on Rails
+- Javascript
+- React.js
+with paired or individual projects in each.
 
-<!--
-**logicfirst/logicfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in program and project implementation and management, and am very interested in Agile frameworks for Software Development projects. I am currently seeking a position in Software Development where I can grow, learn, and have an impact.👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on refactoring/reworking my code for my Rails/React project, Fantasy Congress, to get it out of the design phase and into implentation and deployment.
+
+- 🌱 I’m currently learning Agile software Development frameworks such as Scrum and Kanban.
+
+- 💬 Ask me about my experience as a business owner, selling to the federal government.
+
+- 📫 How to reach me: slee@logicfirstllc.com, www.linkedin.com/in/scotthaineslee
+
+Regards,
+Scott
+
